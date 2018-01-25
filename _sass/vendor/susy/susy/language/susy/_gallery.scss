@@ -61,7 +61,7 @@
   @include float-span-output($output...);
 
   // Individual Loop
-  @for $item from 2 through $line {
+  @for $item from 1 through $line {
     $nth: '#{$line}n + #{$item}';
     &:nth-#{$selector}(#{$nth}) {
       // Individual Prep

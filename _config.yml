@@ -14,7 +14,7 @@ description              : &description "Software Enthusiast"
 url                      : https://dghanwat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dghanwat/dghanwat.github.io"
-teaser                   : "forest1.jpg"
+teaser                   : 
 future                   : true
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
