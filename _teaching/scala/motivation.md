@@ -8,7 +8,6 @@ date: 2016-02-23
 location: "Pune, India"
 ---
 
-
 <!-- .slide: data-background="./images/motivation-bg.png" -->
 # Why Scala
 > If I were to pick a language to use today other than Java, it would be Scala.

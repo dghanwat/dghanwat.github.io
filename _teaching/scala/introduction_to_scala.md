@@ -7,8 +7,6 @@ venue: "Online"
 date: 2016-02-23
 location: "Pune, India"
 ---
-
-
 <!-- .slide: data-background="./images/bg-1.png" -->
 # Introduction To Scala
 Scala is a general purpose programming language, multiparadigm object oriented, functional, scalable
@@ -78,8 +76,4 @@ The best choices for Scala IDEs are IntelliJ IDEA and Eclipse because they are e
 * Scala supports primitive and wrapper classes ?
     1. True
     2. False
-
-
-
-
 

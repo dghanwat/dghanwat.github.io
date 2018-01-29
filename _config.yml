@@ -213,7 +213,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      breadcrumbs : true
+      related: true
   # _publications
   - scope:
       path: ""
