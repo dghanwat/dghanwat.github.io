@@ -108,6 +108,17 @@ Empty, head and tail
 ![alt ](./images/lists-1.png)
 
 ![alt ](./images/lists-2.png)
+---
+## Check your Understanding
+*   What is the output of the following?
+```scala
+val new = List(1,2,3,4) the new._2
+```
+1.  3
+2.  Error
+3.  2
+4.  None of these
+
 
 
 
