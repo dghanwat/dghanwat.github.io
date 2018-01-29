@@ -89,5 +89,3 @@ val (kids, adults) = persons.partition(_.age < 18)
 ---
 <!-- .slide: data-background="./images/why-scala-bg.png" -->
 ---
-[Introduction to Scala](introduction_to_scala.md)
----
