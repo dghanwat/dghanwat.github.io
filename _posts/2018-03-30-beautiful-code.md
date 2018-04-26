@@ -47,3 +47,4 @@ Clean code is easy to read with minimum effort. This lets people start to unders
 A good code provides a solution to the problem at hand – no more – no less. A sign of good code is when you go through it and feel there is nothing you can remove from it 
 
 An ugly code may look like the practical choice. It’s an easy solution when you become defined by deadlines. Some programmers work that way for survival, but surviving isn’t thriving. For businesses to grow and stay competitive they have to have a culture that prizes beautiful code.
+
