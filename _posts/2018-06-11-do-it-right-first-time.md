@@ -4,7 +4,7 @@ date: 2018-06-11
 permalink: /posts/2018/06/2018-06-11-do-it-right-first-time/
 tags:
   - right first time
-excerpt: Exploring the pros and cons of "Notice Period" and its relevance.
+excerpt: Exploring the importance of doing it right the first time
 
 ---
 ![Do It Right First Time](/images/do-it-right-first-time.jpeg "Do It Right First Time")
