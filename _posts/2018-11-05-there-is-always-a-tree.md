@@ -16,7 +16,7 @@ I have kept these words with me for a long time.
 
 Many years ago my grandmother read this story to me and it goes something like this
 
-*There was a big tall hunter hunting for a lion in the jungles of Africa.  It was a hot, windless day and the spoor was warm. He could sense he was closing on the beast. Suddenly, from the mirage like shimmer the hunter saw this form rise, huge and brown and it was coming for him. He fired and missed. The second shot jammed. He tried to fix it but it failed to work. He flunged his gun down. There was not a bush or a tree in sight, just ankle high grass. Nothing. The roar of the beast made the ground tremble just the way they say it does. He could smell its hot, fetid breath on his back, it’s beady eyes shining with rage*
+*There was a big tall hunter hunting for a lion in the jungles of Africa.  It was a hot, windless day and the spoor was warm. He could sense he was closing on the beast. Suddenly, from the mirage like shimmer the hunter saw this form rise, huge and brown and it was coming for him. He fired and missed. The second shot jammed. He tried to fix it but it failed to work. He flung his gun down. There was not a bush or a tree in sight, just ankle high grass. Nothing. The roar of the beast made the ground tremble just the way they say it does. He could smell its hot, fetid breath on his back, it’s beady eyes shining with rage*
 
 Then what happened? I asked, engrossed by the narration.
 
