@@ -15,6 +15,7 @@ Hopefylly by the end of this series you should have an understanding of how to w
 Let's get started.
 
 + [Callback Pattern in Node.js](/posts/2018/10/2018-10-30-callback-pattern-nodejs/)
++ [Promises](/posts/2018/11/2018-11-18-promises-nodejs/)
 
 
 
