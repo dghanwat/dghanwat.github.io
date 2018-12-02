@@ -4,7 +4,7 @@ date: 2018-12-01
 permalink: /posts/2018/12/2018-12-01-move-out-of-your-comfort-zone/
 tags:
  
-excerpt: There has to be a tree, There always has to be a tree
+excerpt: Recognizing that the safety zone has moved might be the prompt your need to reevaluate your comfort zone
 
 ---
 
