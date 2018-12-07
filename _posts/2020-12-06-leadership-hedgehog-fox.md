@@ -38,4 +38,6 @@ Abraham Lincoln was one such leader. He was determined to get the 13th Amendment
 
 So, the ideal leader is part hedgehog and part fox – they can assess all the different angles while still being able to take determined action.
 
+There’s no exact formula to being a successful leader, but history is full of examples that show us the best ones keep their attention focused on a big end goal while seeking out a number of options to help realize it. They stay adaptable in order to navigate around totally unpredictable situations, without letting these potential problems derail their progress
+
 
