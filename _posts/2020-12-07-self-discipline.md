@@ -4,7 +4,7 @@ date: 2018-12-07
 permalink: /posts/2018/12/self-discipline/
 tags:
  
-excerpt: There are something which we can learn from great achievers of our time, especially how they overcome their failures by doing small things
+excerpt: This is one of the many stories of a batting great, which has stayed with me and shows how self discipline can he key to personal success. There are something which we can learn from great achievers of our time, especially how they overcome their failures by doing small things.  Sachin Tendulkar arrived in Sydney with 82 runs from 5 innings,
 
 ---
 
