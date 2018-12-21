@@ -1,6 +1,6 @@
 ---
 title: "Should we write about our Failures in Resume?"
-date: 2018-12-14
+date: 2018-12-16
 permalink: /posts/2018/12/importance-of-failures/
 tags:
  
